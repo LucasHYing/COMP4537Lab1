@@ -1,3 +1,4 @@
+//I disclose the usage of chatGPT for this file
 // Class responsible for reading and displaying notes
 class NoteReader {
   constructor(displayElement, timestampElement) {

@@ -1,3 +1,4 @@
+//I disclose the usage of chatGPT for this file
 // Class representing each note
 class Note {
   constructor(id, content) {
